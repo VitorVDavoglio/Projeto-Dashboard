@@ -44,19 +44,23 @@ Este projeto é um site **Dashboard de Gestão de Chamados** em uma empresa, per
  Para demonstração do projeto foi utilizado o site https://www.mockaroo.com para gerar dados fictícios no projeto.
 
 [![🎬 Página principal]](assets/login_principal.mp4)
+
 <img src="assets/Tela_login.png" width="600" height="auto">
 <img src="assets/Tela_principal.png" width="600" height="auto">
 
 
 [![🎬 Criação chamado]](assets/criacao_chamado.mp4)
+
 <img src="assets/Tela_criacao.png" width="600" height="auto">
 
 
 [![🎬 Gestão individual chamado]](assets/individual_comentario.mp4)
+
 <img src="assets/Tela_chamado.png" width="600" height="auto">
 
 
 [![🎬 Controle de acesso]](assets/controle_acesso.mp4)
+
 <img src="assets/Tela_controle.png" width="600" height="auto">
 
 
