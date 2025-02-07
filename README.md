@@ -4,15 +4,15 @@ Este projeto é um site **Dashboard de Gestão de Chamados** em uma empresa, per
 
 
 ## Tecnologias utilizada
-**Front-end:** React, HTML, CSS, TailwindCSS
+**Front End:** React, HTML, CSS, TailwindCSS
 
 [![My Skills](https://skillicons.dev/icons?i=react,html,css,tailwind)](https://skillicons.dev)
 
-**Back-end:** Node.js, MySQL
+**Back End:** Node.js, MySQL
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mysql)](https://skillicons.dev)
 
-**Back-end:** Figma
+**Ferramenta de Criação:** Figma
 
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
@@ -41,7 +41,23 @@ Este projeto é um site **Dashboard de Gestão de Chamados** em uma empresa, per
  * Definição de permissões de acesso e setor de atuação
 
 ## Demonstração  📸
- >  🚧 Gifs, imagens serão colocadas aqui  🚧
+ Para demonstração do projeto foi utilizado o site https://www.mockaroo.com para gerar dados fictícios no projeto.
+
+[![🎬 Página principal]](assets/login_principal.mp4)
+<img src="assets/Tela_login.png" width="600" height="auto">
+<img src="assets/Tela_principal.png" width="600" height="auto">
+
+
+[![🎬 Criação chamado]](assets/criacao_chamado.mp4)
+<img src="assets/Tela_criacao.png" width="600" height="auto">
+
+
+[![🎬 Gestão individual chamado]](assets/individual_comentario.mp4)
+<img src="assets/Tela_chamado.png" width="600" height="auto">
+
+
+[![🎬 Controle de acesso]](assets/controle_acesso.mp4)
+<img src="assets/Tela_controle.png" width="600" height="auto">
 
 
 ## Melhorias Futuras 📌
